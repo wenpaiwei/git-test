@@ -8,5 +8,6 @@ public class hello {
         System.out.println("你好，蜘蛛侠");
         System.out.println("你好，钢铁侠");
         System.out.println("你好，孙悟空");
+        System.out.println("你好，温派维");
     }
 }
