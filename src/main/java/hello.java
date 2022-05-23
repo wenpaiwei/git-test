@@ -6,5 +6,6 @@ public class hello {
         System.out.println("你好，wlq");
         System.out.println("你好，wweis");
         System.out.println("你好，蜘蛛侠");
+        System.out.println("你好，钢铁侠");
     }
 }
